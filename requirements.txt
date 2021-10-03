@@ -1,6 +1,7 @@
 black==21.9b0
 click==8.0.1
 flake8==3.9.2
+isort==5.9.3
 mccabe==0.6.1
 mypy-extensions==0.4.3
 numpy==1.21.2
